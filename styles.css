@@ -1,0 +1,416 @@
+.main-documentation {
+  height: 3081px;
+  width: 1440px;
+  border-radius: 0px;
+}
+  
+.main-header {
+  height: 80px;
+  width: 1440px;
+}
+  
+.main-header {
+  position: sticky;
+  top: 0;
+}
+  
+.main-container {
+  height: 54px;
+  width: 1200px;
+  background-color: hwb(0 100% 0%);
+  border-radius: 0px;
+  margin: 13px 80px 83px 80px;
+}
+  
+.company-logo-black {
+  height: 54px;
+  width: 237.9px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  float: right;
+}
+  
+.logo {
+  height: 54px;
+  width: 237.9px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+  
+.nav {
+  height: 20px;
+  width: 260.99px;
+}
+  
+li.Documentation {
+  font-family: "Staatliches", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+  
+li {
+  list-style-type: none;
+}
+  
+li.oblique-line {
+  font-family: "Staatliches", sans-serif;
+  font-size: 22px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+  
+li.text_ {
+  font-family: "Staatliches", sans-serif;
+  font-size: 22px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+  
+.first {
+  font-family: "Tourney", "cursive";
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 18px;
+  text-align: center;
+}
+  
+ul.hr {
+  margin: 0;
+  padding: 4px;
+}
+  
+ul.hr li {
+  display: inline;
+  margin-right: 5px;
+  padding: 3px;
+}
+  
+.wrapper {
+  display: flex;
+  height: 462px;
+  width: 385px;
+  flex-direction: column;
+}
+  
+.cide-bar {
+  height: 462px;
+  width: 385px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  justify-content: space-between;
+}
+  
+.cide-bar {
+  position: fixed;
+  top: 30px;
+  width: 500px;
+  margin-top: 0;
+  background: white;
+  padding: 10px;
+}
+  
+.cide-bar_title {
+  height: 58px;
+  width: 365px;
+  border-radius: 0px;
+  padding: 0px 0px 10px 0px;
+  border-bottom: 1px solid rgba(189, 189, 189, 1)
+}
+  
+.title_text {
+  height: 48px;
+  width: 234px;
+  white-space: nowrap;
+}
+  
+.h2 {
+  font-family: "Francois One", sans-serif;
+  font-size: 36px;
+  letter-spacing: 0.04em;
+  text-align: center;
+  width: 400;
+}
+  
+div.main-text {
+  height: 2931px;
+  width: 785px;
+  left: 535px;
+  top: 150px;
+  border-radius: 0px;
+  padding: 0px 0px 90px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 90px;
+  gap: 70px;
+  position: absolute;
+}
+  
+div.chapter1 {
+  background-color: hwb(0 100% 0%);
+  height: 221px;
+  width: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  isolation: isolate;
+}
+  
+.title {
+  display: flex;
+  gap: 15px;
+}
+  
+.div.bloc-content {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+  
+p.content {
+  font-family: "PT", sans;
+  font-size: 28px;
+  letter-spacing: 0em;
+  text-align: justify;
+}
+  
+.chapter2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+  
+div.chapter2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 40px;
+  isolation: isolate;
+}
+  
+.title-2 {
+  display: flex;
+  gap: 15px;
+}
+  
+.title-3 {
+  display: flex;
+  gap: 15px;
+}
+  
+.text-component {
+  font-family: "PT", sans;
+  font-size: 28px;
+  font-style: italic;
+  letter-spacing: 0em;
+  text-align: left;
+}
+  
+.text-component:hover {
+  background: cyan;
+}
+  
+.text-component-0 {
+  font-family: "PT", sans;
+  font-size: 28px;
+  letter-spacing: 0em;
+  text-align: justify;
+}
+  
+div.chapter3 {
+  background-color: hwb(0 100% 0%);
+  height: 993px;
+  width: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 40px;
+  isolation: isolate;
+}
+  
+.h1-3 {
+  height: 48px;
+  width: 400px;
+  gap: 30px;
+}
+  
+.h3-3 {
+  height: 20px;
+  width: 100px;
+}
+  
+.text-component-1 {
+  font-family: "Hind", sans-serif;
+  font-size: 28px;
+  letter-spacing: 0em;
+  text-align: justify;
+}
+  
+p.chapter-3-2 {
+  font-family: "PT", sans;
+  font-size: 28px;
+  letter-spacing: 0em;
+  text-align: justify;
+}
+  
+b.component {
+  font-family: "PT", sans;
+  font-size: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+  
+b.component:hover {
+  background: blue;
+}
+  
+p.chapter-3-3 {
+  font-family: "PT", sans;
+  font-size: 28px;
+  letter-spacing: 0em;
+  text-align: justify;
+}
+  
+b.component1 {
+  font-family: "PT", sans;
+  font-size: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+  
+b.component1:hover {
+  background: blue;
+}
+  
+p.chapter-3-4 {
+  font-family: "PT", sans;
+  font-size: 28px;
+  letter-spacing: 0em;
+  text-align: justify;
+}
+  
+p.chapter-second {
+  font-family: "PT", sans;
+  font-size: 28px;
+  letter-spacing: 0em;
+  text-align: justify;
+}
+  
+span.highlight {
+  background-color: #c9c9c9;
+}
+  
+p.chapter-3-5 {
+  font-family: "PT", sans;
+  font-size: 28px;
+  letter-spacing: 0em;
+  text-align: justify;
+}
+  
+b.component2 {
+  font-family: "PT", sans;
+  font-size: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+  
+b.component2:hover {
+  background: blue;
+}
+  
+p.chapter-3-6 {
+  font-family: "PT", sans;
+  font-size: 28px;
+  letter-spacing: 0em;
+  text-align: justify;
+}
+  
+b.component3 {
+  font-family: "PT", sans;
+  font-size: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+  
+b.component3:hover {
+  background: blue;
+}
+  
+span.greetings {
+  background-color: #c9c9c9;
+}
+  
+.div.chapter4 {
+  background-color: hwb(0 100% 0%);
+  height: 393px;
+  width: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+}
+  
+.div.title-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 15px;
+}
+  
+p.text-8 {
+  font-family: "PT", sans;
+  font-size: 28px;
+  font-size: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+  
+span.italics {
+  font-family: "PT", sans;
+  font-size: 28px;
+  font-style: italic;
+  letter-spacing: 0em;
+  text-align: left;
+}
+  
+p.text-9 {
+  font-family: "PT", sans;
+  font-size: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+  
+.bg-picture {
+  height: 760px;
+  width: 760px;
+  left: 812px;
+  top: 150px;
+  border-radius: 0px;
+  position: absolute;
+}
+  
+.bg-picture {
+  position: absolute;
+  left: 56.39%;
+  right: -9.17%;
+  top: 4.87%;
+  bottom: 70.46%;
+}
+  
+.bg-picture{
+  position: fixed;
+  top: 100px;
+  width: 500px;
+  margin-top: 0;
+  padding: 10px;
+}
+  
